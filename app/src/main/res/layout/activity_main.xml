@@ -18,7 +18,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:backgroundTint="#03A9F4"
-            android:text="B2" />
+            android:text="Button2" />
 
     </LinearLayout>
 
